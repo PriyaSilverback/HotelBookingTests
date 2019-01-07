@@ -96,7 +96,7 @@
   <ItemGroup>
     <Compile Include="Common\BasePage.cs" />
     <Compile Include="Common\BaseTest.cs" />
-    <Compile Include="Bookings.cs" />
+    <Compile Include="Tests\Bookings.cs" />
     <Compile Include="Deposit.cs" />
     <Compile Include="NamespaceSetup.cs" />
     <Compile Include="Pages\HotelBookingForm.cs" />
